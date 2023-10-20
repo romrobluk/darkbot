@@ -64,7 +64,7 @@
 
 .button-40:focus {
   box-shadow: none;
-  outline: 2px solid rgb(66, 66, 66);
+  outline: 2px solid #ffffff;
   outline-offset: 2px;
 }
 
